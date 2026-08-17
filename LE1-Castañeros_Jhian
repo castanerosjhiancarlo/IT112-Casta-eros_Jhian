@@ -1,0 +1,15 @@
+#include <stdio.h>
+    
+    int main() {
+        printf("===========================================\n");
+        printf("              STUDENT PROFILE              \n");
+        printf("===========================================\n");
+        printf("Name:Jhian Carlo V. Castañeros             \n");
+        printf("Course & Section: BSIT - 1R13              \n");
+        printf("Year Level: 1st year                       \n");
+        printf("===========================================\n");
+        printf("             SOFTWARE ENGINEER             \n");
+        printf("===========================================\n");
+    
+            return 0;
+    }
